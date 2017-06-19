@@ -1,0 +1,99 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="brmdb.html" resolutions="1x" timestamp="1497288202505">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="3934107894" ref="gráficos:index:quiz:galeria:contato"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="3865393299" ref="gráficos:index:quiz:galeria:contato"/>
+    <file name="gr_ficos.css" crc="4052638112" ref="gráficos"/>
+    <file name="nomq_gr_ficos.css" crc="4101222266" ref="gráficos"/>
+    <file name="index.css" crc="202611709" ref="index"/>
+    <file name="nomq_index.css" crc="3970989103" ref="index"/>
+    <file name="quiz.css" crc="4226849857" ref="quiz"/>
+    <file name="nomq_quiz.css" crc="312220519" ref="quiz"/>
+    <file name="galeria.css" crc="462341296" ref="galeria"/>
+    <file name="nomq_galeria.css" crc="3933392782" ref="galeria"/>
+    <file name="contato.css" crc="3991455421" ref="contato"/>
+    <file name="nomq_contato.css" crc="149555621" ref="contato"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="museutils.js" crc="4148063285" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="museconfig.js" crc="172512987" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:gráficos"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="webpro.js" crc="3986320349" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="require.js" crc="4159430777" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="form_check.php" crc="303648844" ref="contato"/>
+    <file name="form_throttle.php" crc="236764551" ref="contato"/>
+    <file name="form_process.php" crc="4272079531" ref="contato"/>
+    <file name="form-u5841.php" crc="459969427" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="png color.png" crc="345800161" seo="true" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="banner 5 psd.jpg" crc="473108306" ref="index"/>
+    <file name="layer 2 copy 2.png" crc="276975519" ref="index"/>
+    <file name="11575-nnicfx.jpg" crc="458967639" ref="index"/>
+    <file name="pointing-up-arrow.png" crc="377389932" seo="true" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="banner 5 psd-u2100-fr.jpg" crc="3785321101" ref="index"/>
+    <file name="menu.png" crc="63308640" ref="index:gráficos:galeria:contato"/>
+    <file name="closee.png" crc="59624885" ref="index:gráficos:galeria:contato"/>
+    <file name="pointing-up-arrow-crop-u3606.png" crc="3893065671" ref="index:gráficos:galeria:contato:quiz"/>
+    <file name="banner 5 psd-u2100-fr2.jpg" crc="4246716179" ref="index"/>
+    <file name="grafico 2.jpg" crc="269922112" ref="gráficos"/>
+    <file name="grafico 3.jpg" crc="355747913" ref="gráficos"/>
+    <file name="grafico 2-u4057-fr.jpg" crc="4065234443" ref="gráficos"/>
+    <file name="grafico 3-u4036-fr.jpg" crc="3786744118" ref="gráficos"/>
+    <file name="grafico 2-u4057-fr2.jpg" crc="4039934143" ref="gráficos"/>
+    <file name="grafico 3-u4036-fr2.jpg" crc="4020985999" ref="gráficos"/>
+    <file name="grafico 2-u4057-fr3.jpg" crc="4222932740" ref="gráficos"/>
+    <file name="grafico 3-u4036-fr3.jpg" crc="19595696" ref="gráficos"/>
+    <file name="grafico 2-u4057-fr4.jpg" crc="175885429" ref="gráficos"/>
+    <file name="grafico 3-u4036-fr4.jpg" crc="512705800" ref="gráficos"/>
+    <file name="01-crop-u5067.png" crc="139165025" ref="galeria"/>
+    <file name="03-crop-u5495.png" crc="3883977394" ref="galeria"/>
+    <file name="02-crop-u5507.png" crc="4021951140" ref="galeria"/>
+    <file name="04-crop-u5519.png" crc="3869632399" ref="galeria"/>
+    <file name="06-crop-u5043.png" crc="246404927" ref="galeria"/>
+    <file name="05-crop-u5055.png" crc="306172624" ref="galeria"/>
+    <file name="01-crop-u50672.png" crc="4030782288" ref="galeria"/>
+    <file name="03-crop-u54952.png" crc="243042863" ref="galeria"/>
+    <file name="02-crop-u55072.png" crc="276990533" ref="galeria"/>
+    <file name="04-crop-u55192.png" crc="27745639" ref="galeria"/>
+    <file name="06-crop-u50432.png" crc="296168212" ref="galeria"/>
+    <file name="05-crop-u50552.png" crc="3856007310" ref="galeria"/>
+    <file name="06-crop-u50433.png" crc="29878787" ref="galeria"/>
+    <file name="05-crop-u50553.png" crc="3919186009" ref="galeria"/>
+    <file name="01-crop-u50673.png" crc="4015926025" ref="galeria"/>
+    <file name="03-crop-u54953.png" crc="4119638753" ref="galeria"/>
+    <file name="02-crop-u55073.png" crc="46249660" ref="galeria"/>
+    <file name="04-crop-u55193.png" crc="176216617" ref="galeria"/>
+    <file name="06-crop-u50434.png" crc="216471828" ref="galeria"/>
+    <file name="05-crop-u50554.png" crc="447569588" ref="galeria"/>
+    <file name="01-crop-u50674.png" crc="3814796322" ref="galeria"/>
+    <file name="03-crop-u54954.png" crc="378545272" ref="galeria"/>
+    <file name="02-crop-u55074.png" crc="48306064" ref="galeria"/>
+    <file name="04-crop-u55194.png" crc="4286631045" ref="galeria"/>
+    <file name="06128x105.png" crc="291382614" seo="true" ref="galeria"/>
+    <file name="05128x105.png" crc="139997431" seo="true" ref="galeria"/>
+    <file name="01128x105.png" crc="3841986154" seo="true" ref="galeria"/>
+    <file name="03128x105.png" crc="291448337" seo="true" ref="galeria"/>
+    <file name="02128x105.png" crc="362103429" seo="true" ref="galeria"/>
+    <file name="04128x105.png" crc="499200796" seo="true" ref="galeria"/>
+    <file name="06120x99.png" crc="4143146743" seo="true" ref="galeria"/>
+    <file name="05120x99.png" crc="166663579" seo="true" ref="galeria"/>
+    <file name="01120x99.png" crc="116918037" seo="true" ref="galeria"/>
+    <file name="03120x99.png" crc="189017949" seo="true" ref="galeria"/>
+    <file name="02120x99.png" crc="4281118698" seo="true" ref="galeria"/>
+    <file name="04120x99.png" crc="188509038" seo="true" ref="galeria"/>
+  </folder>
+  <file name="index.html" crc="4088299943" seo="true" mt="1497287497311" redirect="true"/>
+  <file name="gráficos.html" crc="3794764838" seo="true" mt="1497288119222" redirect="true"/>
+  <file name="galeria.html" crc="3931393568" seo="true" mt="1497288084827" redirect="true"/>
+  <file name="contato.html" crc="4058728847" seo="true" mt="1497287497311" redirect="true"/>
+  <file name="quiz.html" crc="499958582" seo="true" mt="1497287972391" redirect="true"/>
+</manifest>
